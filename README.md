@@ -1,5 +1,5 @@
 # Demo:
-![image](https://github.com/manbobo2002/rekognition-demo/blob/master/Rekognizion%20Demo.gif)  
+![image](https://github.com/manbobo2002/gcp_lb/blob/master/demo.gif)  
 
 # Technologies used:  
 Cloud Shell, Compute Engine, Load balancing
