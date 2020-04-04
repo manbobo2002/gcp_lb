@@ -12,4 +12,4 @@ Click the load balancer link, it will automatically have a health check and poin
 
 
 # How to setup:  
-Please visit https://medium.com/@manbobo2012/build-a-simple-aws-rekognition-application-within-15-mins-874b7d52267d
+Please visit https://medium.com/@manbobo2012/load-balancer-on-google-cloud-with-google-managed-ssl-certificates-6bfcfdbc7aeb
