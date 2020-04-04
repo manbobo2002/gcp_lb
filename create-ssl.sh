@@ -16,7 +16,7 @@ gcloud compute target-https-proxies create https-lb-proxy \
 gcloud compute forwarding-rules create https-content-rule \
         --global \
         --target-https-proxy https-lb-proxy \
-        --ports 80
+        --ports 443
 
 # show the forwarding rule
 echo "Here are all the forwarding rule"
